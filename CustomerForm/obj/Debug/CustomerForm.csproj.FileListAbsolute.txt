@@ -1,0 +1,15 @@
+C:\Users\Sarah Hesham\OneDrive\Documents\SQL Server Management Studio\Car_Trading_DataBase\CustomerForm\bin\Debug\CustomerForm.exe.config
+C:\Users\Sarah Hesham\OneDrive\Documents\SQL Server Management Studio\Car_Trading_DataBase\CustomerForm\bin\Debug\CustomerForm.exe
+C:\Users\Sarah Hesham\OneDrive\Documents\SQL Server Management Studio\Car_Trading_DataBase\CustomerForm\bin\Debug\CustomerForm.pdb
+C:\Users\Sarah Hesham\OneDrive\Documents\SQL Server Management Studio\Car_Trading_DataBase\CustomerForm\obj\Debug\CustomerForm.csproj.AssemblyReference.cache
+C:\Users\Sarah Hesham\OneDrive\Documents\SQL Server Management Studio\Car_Trading_DataBase\CustomerForm\obj\Debug\CustomerForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sarah Hesham\OneDrive\Documents\SQL Server Management Studio\Car_Trading_DataBase\CustomerForm\obj\Debug\CustomerForm.Form1.resources
+C:\Users\Sarah Hesham\OneDrive\Documents\SQL Server Management Studio\Car_Trading_DataBase\CustomerForm\obj\Debug\CustomerForm.Properties.Resources.resources
+C:\Users\Sarah Hesham\OneDrive\Documents\SQL Server Management Studio\Car_Trading_DataBase\CustomerForm\obj\Debug\CustomerForm.csproj.GenerateResource.cache
+C:\Users\Sarah Hesham\OneDrive\Documents\SQL Server Management Studio\Car_Trading_DataBase\CustomerForm\obj\Debug\CustomerForm.csproj.CoreCompileInputs.cache
+C:\Users\Sarah Hesham\OneDrive\Documents\SQL Server Management Studio\Car_Trading_DataBase\CustomerForm\obj\Debug\CustomerForm.exe
+C:\Users\Sarah Hesham\OneDrive\Documents\SQL Server Management Studio\Car_Trading_DataBase\CustomerForm\obj\Debug\CustomerForm.pdb
+C:\Users\Sarah Hesham\OneDrive\Documents\SQL Server Management Studio\Car_Trading_DataBase\CustomerForm\obj\Debug\CustomerForm.Form2.resources
+C:\Users\Sarah Hesham\OneDrive\Documents\SQL Server Management Studio\Car_Trading_DataBase\CustomerForm\obj\Debug\CustomerForm.exe.config
+C:\Users\Sarah Hesham\OneDrive\Documents\SQL Server Management Studio\Car_Trading_DataBase\CustomerForm\obj\Debug\CustomerForm.XtraReport1.resources
+C:\Users\Sarah Hesham\OneDrive\Documents\SQL Server Management Studio\Car_Trading_DataBase\CustomerForm\obj\Debug\CustomerForm.exe.licenses
